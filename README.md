@@ -1,4 +1,5 @@
-### Hi there 👋
+# Tiana Robinson
+I am a plant mom who has dipped into the pool of software. I am curios and eager to learn! Software is so cool! 
 
 <!--
 **trobinson1097/trobinson1097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## School
+*whitecunty 
+
+# jobs 
+| | | | | |
+|-|-|-|-|-|
