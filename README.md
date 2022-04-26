@@ -1,5 +1,5 @@
 # Tiana Robinson
-I am a plant mom who has dipped into the pool of software. I am curios and eager to learn, readily applying myself to new knowledge every day.
+I am a plant mom who has dipped into the pool of software. I am curious and eager to learn, readily applying myself to new knowledge every day.
 
 <!--
 **trobinson1097/trobinson1097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
