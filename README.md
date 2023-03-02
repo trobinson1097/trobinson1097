@@ -8,7 +8,7 @@
 </p> 
 
 ## 
-- 🔭 I’m currently working on strenghtening my knowledge in React.js
+- 🔭 I’m currently working on learning C# and strenghtening my knowledge in React.js
 - ⚡ Fun fact: Ada Lovelace (a woman) was considered to be the first programer after she published the first algorithm ever specifically tailored for implementation on a computer.
 * lets connect on linkedIn!: https://www.linkedin.com/in/tiana-rob/
 ### School
