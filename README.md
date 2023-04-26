@@ -25,6 +25,10 @@
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
 
+### Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trobinson1097&theme=cobalt&show_icons=true)
+
 
 
 
