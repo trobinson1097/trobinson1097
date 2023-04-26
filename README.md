@@ -36,7 +36,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?trobinson1097=anuraghazra&repo=convoychat" />
 </a>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trobinson1097&size_weight=0.5&count_weight=0.5)](https://github.com/trobinson1097/github-readme-stats)
 
 
 
