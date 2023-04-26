@@ -27,7 +27,7 @@
 
 ### Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trobinson1097&theme=cobalt&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trobinson1097&theme=panda&show_icons=true)
 
 
 
