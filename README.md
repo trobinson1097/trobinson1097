@@ -33,10 +33,9 @@
   <img align="center" src=(https://github-readme-stats.vercel.app/api?username=trobinson1097&theme=panda&show_icons=true)
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?trobinson1097=anuraghazra&repo=convoychat" />
+  <img align="center" src=(https://github-readme-stats.vercel.app/api/top-langs/?username=trobinson1097&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/trobinson1097/github-readme-stats)
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trobinson1097&size_weight=0.5&count_weight=0.5)](https://github.com/trobinson1097/github-readme-stats)
 
 
 
