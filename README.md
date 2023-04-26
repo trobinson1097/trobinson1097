@@ -29,7 +29,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trobinson1097&theme=panda&show_icons=true)
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src=(https://github-readme-stats.vercel.app/api?username=trobinson1097&theme=panda&show_icons=true)
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?trobinson1097=anuraghazra&repo=convoychat" />
+</a>
 
 
 
