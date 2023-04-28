@@ -33,7 +33,7 @@
   <img align="center" src=(https://github-readme-stats.vercel.app/api?username=trobinson1097&theme=panda&show_icons=true)
 </a>
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=trobinson1097&theme=panda)
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=trobinson1097&theme=panda&show_icons=true)
 
 
 
