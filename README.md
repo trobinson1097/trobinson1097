@@ -26,14 +26,14 @@
 </p>
 
 ### Stats
-
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=trobinson1097&theme=panda&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trobinson1097&theme=panda&show_icons=true)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src=(https://github-readme-stats.vercel.app/api?username=trobinson1097&theme=panda&show_icons=true)
 </a>
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=trobinson1097&theme=panda&show_icons=true)
+
 
 
 
