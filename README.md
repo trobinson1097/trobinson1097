@@ -1,3 +1,9 @@
+<p align="center">
+ <img src="![image](https://user-images.githubusercontent.com/70257571/235176039-7337a15f-9849-4ebc-9938-ca7687e0f18e.png)" width="100" height="100" />
+</p>
+
+
+
 # Tiana Robinson
 :woman_technologist: Pronouns: she/ her 
 
