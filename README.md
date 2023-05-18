@@ -1,5 +1,4 @@
 # Tiana Robinson
-Pronouns: she/ her 
 <p align="center">
   <img src="https://img.freepik.com/premium-vector/potted-plants-scandinavian-style-interior-decor_274953-106.jpg" alt="Image 1" width="277" />
   <img src="https://i.etsystatic.com/26891008/r/il/da2385/2935046038/il_fullxfull.2935046038_cf92.jpg" alt="Image 2" width="400" />
@@ -7,15 +6,21 @@ Pronouns: she/ her
 <div> Hi there :wave:, </div>
 
 <p>
-  I'm Tiana and currently I am a Junior Instructor at Nashvile Software School. I am curious and eager to learn, readily applying myself to new knowledge every day.
+I'm Tiana [Pronouns: she/ her], I am a Junior Instructor at Nashvile Software School. I am curious and eager to learn, readily applying myself to new knowledge every day.
 </p> 
 
-## 
+## What am I up to?
 - 🔭 I’m currently working on learning C# and strenghtening my knowledge in React.js
 - ⚡ Fun fact: Ada Lovelace (a woman) was considered to be the first programer after she published the first algorithm ever specifically tailored for implementation on a computer.
 * lets connect on linkedIn!: https://www.linkedin.com/in/tiana-rob/
 ### School
 * Nashville Software School
+
+
+## More Info 
+<a href="https://www.linkedin.com/in/lechrsty/](https://www.linkedin.com/in/tiana-rob/">
+   <img  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
 
 ### Skills
