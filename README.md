@@ -1,5 +1,5 @@
-<h1> Tiana Robinson </h1>
-<p style="border: 1px solid pink" align="center">
+<h1>Tiana Robinson</h1>
+<p align="center">
   <img src="https://img.freepik.com/premium-vector/potted-plants-scandinavian-style-interior-decor_274953-106.jpg" alt="Image 1" width="277" />
   <img src="https://i.etsystatic.com/26891008/r/il/da2385/2935046038/il_fullxfull.2935046038_cf92.jpg" alt="Image 2" width="400" />
   <img src="https://img.freepik.com/premium-vector/potted-plants-scandinavian-style-interior-decor_274953-106.jpg" alt="Image 1" width="277" />
@@ -9,31 +9,30 @@
   <img src="https://media.tenor.com/DcDYpWonGbIAAAAj/budding-pop-cute.gif" width="65px"/>
 </h1>
 
-<p>
-I'm Tiana [Pronouns: she/ her], I am a Junior Instructor and Grauate of/at Nashvile Software School. 
-</p> 
+<h4>
+I'm Tiana [Pronouns: she/ her], I am a Junior Instructor and Grauate of Nashvile Software School. 
+</h4> 
 
 ##  <img src="https://media.tenor.com/ZradFz5PxssAAAAj/mimibubu.gif" width="45px"/> What am I up to?
 - 🔭 I’m currently working on learning C# and strenghtening my knowledge in React.js
 - ⚡ Did you know: Ada Lovelace (a woman) was considered to be the first programer after she published the first algorithm ever specifically tailored for implementation on a computer.
-
-
-## Lets Connect:  <img src="https://media.tenor.com/Q8_huSjAs6kAAAAj/connect.gif" width="45px"/>
-<a href="https://www.linkedin.com/in/lechrsty/](https://www.linkedin.com/in/tiana-rob/">
-   <img  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-
-# <img src="https://media.tenor.com/t-xvgPEJkZAAAAAj/mimibubu.gif" width="100px">  Skills
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-</p>
-
-
+<details> 
+  <summary> Curious about my interests outside of coding? </summary>
+<h4> Currently I run a lanuage learning server on discord. I am also the leader of a skate group (The Collective) dedicated to creating safe spaces for black skaters and skaters of color. </h4>
+  <div>
+    <h2> I have a strong love for: </h2> 
+    <li> Running </li>
+    <li> Climbing </li>
+    <li> Crafting new things </li>  
+  </div> 
+  <div> 
+     <h2> My passions are: </h2> 
+    <li> Discussing black women in tech </li>
+    <li> Music </li>
+    <li> Cooking </li>
+    <li> Building Community </li>
+  </div>
+</details>
 
 
 ### Stats
@@ -46,6 +45,8 @@ I'm Tiana [Pronouns: she/ her], I am a Junior Instructor and Grauate of/at Nashv
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src=(https://github-readme-stats.vercel.app/api?username=trobinson1097&theme=dracula&show_icons=true)
 </a>
+  
+# <img src="https://media.tenor.com/t-xvgPEJkZAAAAAj/mimibubu.gif" width="45px">  Skills
 
 #### Language and Framework Badges
 ![badge 10](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -68,18 +69,7 @@ I'm Tiana [Pronouns: she/ her], I am a Junior Instructor and Grauate of/at Nashv
 ![badge 4-figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![badge 5-canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-<!-- | | | | | |
-|-|-|-|-|-| -->
-  <!--
-**trobinson1097/trobinson1097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
--->
+## Lets Connect: <img src="https://media.tenor.com/Q8_huSjAs6kAAAAj/connect.gif" width="60px"/>
+<a href="https://www.linkedin.com/in/lechrsty/](https://www.linkedin.com/in/tiana-rob/">
+   <img  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
