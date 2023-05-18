@@ -1,29 +1,29 @@
-# Tiana Robinson
-<p align="center">
+<h1> Tiana Robinson </h1>
+<p style="border: 1px solid pink" align="center">
   <img src="https://img.freepik.com/premium-vector/potted-plants-scandinavian-style-interior-decor_274953-106.jpg" alt="Image 1" width="277" />
   <img src="https://i.etsystatic.com/26891008/r/il/da2385/2935046038/il_fullxfull.2935046038_cf92.jpg" alt="Image 2" width="400" />
   <img src="https://img.freepik.com/premium-vector/potted-plants-scandinavian-style-interior-decor_274953-106.jpg" alt="Image 1" width="277" />
-<div> Hi there :wave:, </div>
+
+<h1>
+  Hey there, 
+  <img src="https://media.tenor.com/DcDYpWonGbIAAAAj/budding-pop-cute.gif" width="65px"/>
+</h1>
 
 <p>
-I'm Tiana [Pronouns: she/ her], I am a Junior Instructor at Nashvile Software School. I am curious and eager to learn, readily applying myself to new knowledge every day.
+I'm Tiana [Pronouns: she/ her], I am a Junior Instructor and Grauate of/at Nashvile Software School. 
 </p> 
 
-## What am I up to?
+##  <img src="https://media.tenor.com/ZradFz5PxssAAAAj/mimibubu.gif" width="45px"/> What am I up to?
 - 🔭 I’m currently working on learning C# and strenghtening my knowledge in React.js
-- ⚡ Fun fact: Ada Lovelace (a woman) was considered to be the first programer after she published the first algorithm ever specifically tailored for implementation on a computer.
-* lets connect on linkedIn!: https://www.linkedin.com/in/tiana-rob/
-### School
-* Nashville Software School
+- ⚡ Did you know: Ada Lovelace (a woman) was considered to be the first programer after she published the first algorithm ever specifically tailored for implementation on a computer.
 
 
-## More Info 
+## Lets Connect:  <img src="https://media.tenor.com/Q8_huSjAs6kAAAAj/connect.gif" width="45px"/>
 <a href="https://www.linkedin.com/in/lechrsty/](https://www.linkedin.com/in/tiana-rob/">
    <img  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-
-### Skills
+# <img src="https://media.tenor.com/t-xvgPEJkZAAAAAj/mimibubu.gif" width="100px">  Skills
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -33,14 +33,18 @@ I'm Tiana [Pronouns: she/ her], I am a Junior Instructor at Nashvile Software Sc
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
 
+
+
+
 ### Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trobinson1097&theme=panda&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trobinson1097&theme=onedark&show_icons=true)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=trobinson1097&bg_color=31353a&color=ff75b5&line=2f4e4e&point=21a999&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=trobinson1097&bg_color=282c34&color=c6a66e&line=df6d74&point=8db573&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src=(https://github-readme-stats.vercel.app/api?username=trobinson1097&theme=panda&show_icons=true)
+  <img align="center" src=(https://github-readme-stats.vercel.app/api?username=trobinson1097&theme=dracula&show_icons=true)
 </a>
 
 #### Language and Framework Badges
