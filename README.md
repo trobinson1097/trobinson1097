@@ -1,8 +1,8 @@
 <h1>Tiana Robinson</h1>
 <p align="center">
-  <img src="https://img.freepik.com/premium-vector/potted-plants-scandinavian-style-interior-decor_274953-106.jpg" alt="Image 1" width="277" />
+  
   <img src="https://i.etsystatic.com/26891008/r/il/da2385/2935046038/il_fullxfull.2935046038_cf92.jpg" alt="Image 2" width="400" />
-  <img src="https://img.freepik.com/premium-vector/potted-plants-scandinavian-style-interior-decor_274953-106.jpg" alt="Image 1" width="277" />
+
 
 <h1>
   Hey there, 
