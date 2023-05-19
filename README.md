@@ -1,7 +1,4 @@
-<p align="center">
-  
-  <img align="right" src="https://i.etsystatic.com/26891008/r/il/da2385/2935046038/il_fullxfull.2935046038_cf92.jpg" alt="Image 2" width="400" />
-
+<img align="right" src="https://i.etsystatic.com/26891008/r/il/da2385/2935046038/il_fullxfull.2935046038_cf92.jpg" alt="Image 2" width="400" />
 
 <h1>
   Hey there, 
@@ -16,21 +13,22 @@ I'm Tiana [Pronouns: she/ her], I am a Junior Instructor and Graduate of Nashvil
 - 🔭 I’m currently working on learning C# and strenghtening my knowledge in React.js
 - ⚡ Did you know: Ada Lovelace (a woman) was considered to be the first programer after she published the first algorithm ever specifically tailored for implementation on a computer.
 <details> 
-  <summary> Curious about my interests outside of coding? </summary>
-<h4> Currently I run a lanuage learning server on discord. I am also the leader of a skate group (The Collective) dedicated to creating safe spaces for black skaters and skaters of color. </h4>
-  <div>
-    <h2> I have a strong love for: </h2> 
+<summary> Curious about my interests outside of coding? </summary>
+  <h4> Currently I run a lanuage learning server on discord. I am also the leader of a skate group (The Collective) dedicated to creating safe spaces for black skaters and skaters of color. </h4>
+<div>
+  <h2> I have a strong love for: </h2> 
     <li> Running </li>
+    <li> Yoga </li>
     <li> Climbing </li>
     <li> Crafting new things </li>  
-  </div> 
-  <div> 
-     <h2> My passions are: </h2> 
+</div> 
+<div> 
+  <h2> My passions are: </h2> 
     <li> Discussing black women in tech </li>
     <li> Music </li>
     <li> Cooking </li>
     <li> Building Community </li>
-  </div>
+</div>
 </details>
 
 
