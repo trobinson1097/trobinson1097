@@ -37,9 +37,9 @@ I'm Tiana [Pronouns: she/ her], I am a Junior Instructor and Graduate of Nashvil
 ### Stats
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trobinson1097&theme=onedark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trobinson1097&theme=material-palenight&show_icons=true)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=trobinson1097&bg_color=282c34&color=c6a66e&line=df6d74&point=8db573&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=trobinson1097&bg_color=292d3e&color=a6accd&line=89ddff&point=c692ea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
