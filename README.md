@@ -10,8 +10,9 @@ I'm Tiana [Pronouns: she/ her], I am a Junior Instructor and Graduate of Nashvil
 </h4> 
 
 ##  <img src="https://media.tenor.com/ZradFz5PxssAAAAj/mimibubu.gif" width="45px"/> What am I up to?
-- 🔭 I’m currently working on learning C# and strengthening my knowledge in React.
+- 🔭 I’m currently working at learning C# and strengthening my knowledge in React.
 - ⚡ Did you know: Ada Lovelace (a woman) was considered to be the first programmer after she published the first algorithm ever, specifically tailored for implementation on a computer.
+- Want something insightful to read?? : https://www.linkedin.com/advice/1/how-can-you-master-effective-coaching?utm_source=share&utm_medium=member_desktop&utm_campaign=copy
 <details> 
 <summary> Curious about my interests outside of coding? </summary>
   <h4> Currently I run a language learning server on discord. I am also the leader of a skate group (The Collective) dedicated to creating safe spaces for black skaters and skaters of color. </h4>
