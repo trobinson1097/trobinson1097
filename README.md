@@ -6,7 +6,7 @@
 </h1>
 
 <h4>
-I'm Tiana [Pronouns: she/ her], I am a Junior Instructor and Graduate of Nashvile Software School. 
+I'm Tiana [Pronouns: she/ her], I am a Graduate of Nashvile Software School. 
 </h4> 
 
 ##  <img src="https://media.tenor.com/ZradFz5PxssAAAAj/mimibubu.gif" width="45px"/> What am I up to?
