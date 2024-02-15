@@ -64,7 +64,7 @@ I'm Tiana [Pronouns: she/ her], I am a Graduate of Nashvile Software School.
 ![badge 4-figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![badge 5-canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-## Lets Connect: <img src="https://media.tenor.com/Q8_huSjAs6kAAAAj/connect.gif" width="60px"/>
+##Lets Connect
 <a href="https://www.linkedin.com/in/tiana-rob/](https://www.linkedin.com/in/tiana-rob/">
    <img  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
