@@ -1,27 +1,34 @@
-<img align="right" src="https://i.etsystatic.com/26891008/r/il/da2385/2935046038/il_fullxfull.2935046038_cf92.jpg" alt="Image 2" width="400" />
 
-<h1>
+<h1 style>
   Hey there, 
   <img src="https://media.tenor.com/DcDYpWonGbIAAAAj/budding-pop-cute.gif" width="65px"/>
 </h1>
 
-<h4>
-I'm Tiana [Pronouns: she/ her], I am a Graduate of Nashvile Software School. 
-</h4> 
 
-##  <img src="https://media.tenor.com/ZradFz5PxssAAAAj/mimibubu.gif" width="45px"/> What am I up to?
-- 🔭 Breaking into tech as a Black Woman.
-- 💾 learning and Building Ai with my new Asus Nuc Pro - Thanks Intel ;)
-- ⚡ Did you know: Ada Lovelace (a woman) was considered to be the first programmer after she published the first algorithm ever, specifically tailored for implementation on a computer.
-- Want something insightful to read?? : https://www.linkedin.com/advice/1/how-can-you-master-effective-coaching?utm_source=share&utm_medium=member_desktop&utm_campaign=copy
+<h4  { border-bottom: 0; } >
+I'm Tiana [Pronouns: she/ her], I am a Graduate of Nashvile Software School. 
+</h4>
+
+
+
+
+## What am I up to? <img src="https://media.tenor.com/ZradFz5PxssAAAAj/mimibubu.gif" width="45px"/> 
+<img align="right" src="https://i.etsystatic.com/26891008/r/il/da2385/2935046038/il_fullxfull.2935046038_cf92.jpg" alt="Image 2" width="400" />
+- 🔭 Breaking into tech as a Black Woman. <br>
+- 💾 learning and Building Ai with my new Asus Nuc Pro - Thanks Intel ;) <br> 
+- ⚡ Did you know: Ada Lovelace (a woman) was considered to be the first programmer after she published the first algorithm ever, specifically tailored for implementation on a computer. <br>
+- 💡 Want something insightful to read??
+ <br>
+ https://www.linkedin.com/advice/1/how-can-you-master-effective-coaching?utm_source=share&utm_medium=member_desktop&utm_campaign=copy <br>
+<br>
 <details> 
+<br>
 <summary> Curious about my interests outside of coding? </summary>
-  <h4> Currently I run a language learning server on discord. I am also the leader of a skate group (The Collective) dedicated to creating safe spaces for black skaters and skaters of color. </h4>
 <div>
-  <h2> I have a strong love for: </h2> 
-    <li> Running </li>
-    <li> Yoga </li>
-    <li> Climbing </li>
+  <h2> In my day to day I like... </h2> 
+    <li> Running, yoga, climbing </li>
+    <li> Building miniature lego sculptures </li>
+    <li> Solving complex sudoku puzzles </li>
     <li> Crafting new things </li>  
 </div> 
 <div> 
@@ -40,7 +47,7 @@ I'm Tiana [Pronouns: she/ her], I am a Graduate of Nashvile Software School.
 
 
 
-# <img src="https://media.tenor.com/t-xvgPEJkZAAAAAj/mimibubu.gif" width="45px">  Skills
+# Skills <img src="https://media.tenor.com/t-xvgPEJkZAAAAAj/mimibubu.gif" width="45px">  
 
 #### Languages
 ![badge 3](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -65,7 +72,7 @@ I'm Tiana [Pronouns: she/ her], I am a Graduate of Nashvile Software School.
 ![badge 4-figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![badge 5-canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-##Lets Connect
+## Lets Connect
 
 <a href="https://www.linkedin.com/in/tiana-rob/](https://www.linkedin.com/in/tiana-rob/">
    <img  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
