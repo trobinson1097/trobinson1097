@@ -14,7 +14,6 @@ I'm Tiana [Pronouns: she/ her], I am a Graduate of Nashvile Software School.
 
 ## What am I up to? <img src="https://media.tenor.com/ZradFz5PxssAAAAj/mimibubu.gif" width="45px"/> 
 <img align="right" src="https://i.etsystatic.com/26891008/r/il/da2385/2935046038/il_fullxfull.2935046038_cf92.jpg" alt="Image 2" width="400" />
-- 🔭 Breaking into tech as a Black Woman. <br>
 - 💾 learning and Building Ai with my new Asus Nuc Pro - Thanks Intel ;) <br> 
 - ⚡ Did you know: Ada Lovelace (a woman) was considered to be the first programmer after she published the first algorithm ever, specifically tailored for implementation on a computer. <br>
 - 💡 Want something insightful to read??
